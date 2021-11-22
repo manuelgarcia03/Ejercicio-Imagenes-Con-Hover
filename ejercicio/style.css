@@ -1,0 +1,16 @@
+div{
+	width: 900px;
+	height: 500px;
+	border: 7px solid;
+	border-color: darkblue;
+	border-radius: 20px;
+	background-image:url('../ejercicio/imagenes/kobe.jpeg') ;
+	background-repeat: no-repeat ;
+	background-size: 100%;
+}
+
+div:hover{
+	background-image: url('../ejercicio/imagenes/lebron.jpeg');
+	background-repeat: no-repeat ;
+	background-size: 100%;
+}
